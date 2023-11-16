@@ -47,7 +47,7 @@ int main(){
     printf("\n");
     printf("Mayor: %d\n", n_mayor);
     printf("Intermedio: %d\n", n_intermedio);
-    printf("Menor: %d", n_menor);
+    printf("Menor: %d\n", n_menor);
 
     return 0;
 }

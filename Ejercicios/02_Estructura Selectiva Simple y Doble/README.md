@@ -316,7 +316,7 @@ $
 ax^2 + bx + c = 0$
 
 $
-x1= \frac {-b + \sqrt{b^2}-4ac}{2a}$
+x1= \frac{-b+\sqrt{b^2-4ac}}{2a}$
 
 $
 x2 = \frac{-b-\sqrt{b^2-4ac}}{2a}$
