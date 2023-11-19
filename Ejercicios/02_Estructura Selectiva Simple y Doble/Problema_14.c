@@ -20,7 +20,7 @@ int main(){
     // Solución
     ecuacion = pow(val_b, 2.0) - 4.0 * val_a * val_c;
     /**
-     * a b c
+     * a b c Datos nuevos
      * 2 3 4
     */
     repeEcuacion = pow(val_b, (1.0/2.0)) - 4 * val_a * val_c;
